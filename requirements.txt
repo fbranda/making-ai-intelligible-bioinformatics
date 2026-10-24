@@ -1,0 +1,9 @@
+# Compatibility ranges, not an exact lockfile. See docs/reproducibility.md.
+numpy>=2.0,<3
+scipy>=1.12,<2
+scikit-learn>=1.5,<2
+shap>=0.47,<0.51
+lime>=0.2.0.1,<0.3
+matplotlib>=3.8,<4
+joblib>=1.4,<2
+gradio>=6,<7

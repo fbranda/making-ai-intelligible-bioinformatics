@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: >-
+  Please cite the associated manuscript when using this research code.
+  Publication details will be updated when available.
+type: software
+title: 'Making AI Intelligible in Bioinformatics: Synthetic TF-Binding Case Study Code'
+authors:
+  - family-names: Branda
+    given-names: Francesco
+  - family-names: Ahmed
+    given-names: Mohamed Mustaf
+  - family-names: Ciccozzi
+    given-names: Massimo
+  - family-names: Othman
+    given-names: Zhinya Kawa
+  - family-names: Scarpa
+    given-names: Fabio
+keywords:
+  - bioinformatics
+  - explainable artificial intelligence
+  - interpretability
+  - simulated regulatory genomics
+  - reproducibility
+version: 0.1.0
